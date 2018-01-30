@@ -1,0 +1,20 @@
+C:\Users\Кирилл\Documents\Visual Studio 2015\Projects\1_Courses\PackMan\PackMan\bin\Debug\PackMan.exe.config
+C:\Users\Кирилл\Documents\Visual Studio 2015\Projects\1_Courses\PackMan\PackMan\bin\Debug\PackMan.exe
+C:\Users\Кирилл\Documents\Visual Studio 2015\Projects\1_Courses\PackMan\PackMan\bin\Debug\PackMan.pdb
+C:\Users\Кирилл\Documents\Visual Studio 2015\Projects\1_Courses\PackMan\PackMan\obj\Debug\PackMan.Properties.Resources.resources
+C:\Users\Кирилл\Documents\Visual Studio 2015\Projects\1_Courses\PackMan\PackMan\obj\Debug\PackMan.csproj.GenerateResource.Cache
+C:\Users\Кирилл\Documents\Visual Studio 2015\Projects\1_Courses\PackMan\PackMan\obj\Debug\PackMan.exe
+C:\Users\Кирилл\Documents\Visual Studio 2015\Projects\1_Courses\PackMan\PackMan\obj\Debug\PackMan.pdb
+C:\Users\Кирилл\Documents\Visual Studio 2015\Projects\1_Courses\PackMan\PackMan\obj\Debug\PackMan.Controller_MainForm.resources
+C:\Users\Кирилл\Documents\Visual Studio 2015\Projects\1_Courses\PackMan\PackMan\obj\Debug\PackMan.View.resources
+C:\Users\Кирилл\Documents\Visual Studio 2015\Projects\1_Courses\PackMan\PackMan\obj\Debug\PackMan.csprojResolveAssemblyReference.cache
+C:\Users\Кирилл\Documents\Visual Studio 2015\Projects\1_Courses\PackMan v.0.1\PackMan\bin\Debug\PackMan.exe.config
+C:\Users\Кирилл\Documents\Visual Studio 2015\Projects\1_Courses\PackMan v.0.1\PackMan\obj\Debug\PackMan.exe
+C:\Users\Кирилл\Documents\Visual Studio 2015\Projects\1_Courses\PackMan v.0.1\PackMan\obj\Debug\PackMan.pdb
+C:\Users\Кирилл\Documents\Visual Studio 2015\Projects\1_Courses\PackMan v.0.1\PackMan\bin\Debug\PackMan.exe
+C:\Users\Кирилл\Documents\Visual Studio 2015\Projects\1_Courses\PackMan v.0.1\PackMan\bin\Debug\PackMan.pdb
+C:\Users\Кирилл\Documents\Visual Studio 2015\Projects\1_Courses\PackMan v.0.1\PackMan\obj\Debug\PackMan.csprojResolveAssemblyReference.cache
+C:\Users\Кирилл\Documents\Visual Studio 2015\Projects\1_Courses\PackMan v.0.1\PackMan\obj\Debug\PackMan.Controller_MainForm.resources
+C:\Users\Кирилл\Documents\Visual Studio 2015\Projects\1_Courses\PackMan v.0.1\PackMan\obj\Debug\PackMan.Properties.Resources.resources
+C:\Users\Кирилл\Documents\Visual Studio 2015\Projects\1_Courses\PackMan v.0.1\PackMan\obj\Debug\PackMan.View.resources
+C:\Users\Кирилл\Documents\Visual Studio 2015\Projects\1_Courses\PackMan v.0.1\PackMan\obj\Debug\PackMan.csproj.GenerateResource.Cache
